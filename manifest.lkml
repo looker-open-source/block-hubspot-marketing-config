@@ -1,4 +1,4 @@
-project_name: "block-hubspot-config"
+project_name: "block-hubspot-marketing-config"
 
 ################ Constants ################
 
