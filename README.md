@@ -1,6 +1,6 @@
 # Hubspot Marketing
 
-This block is based on the [Hubspot Marketing Schema](https://fivetran.com/docs/applications/hubspot#hubspotmarketingschema) provided by [Fivetran's ETL](https://fivetran.com/docs/applications/hubspot/setup-guide) or Looker's managed ETL via [The Connection Hub](https://docs.looker.com/setup-and-management/connecting-to-db#new_database).
+This block is based on the [Hubspot Marketing Schema](https://fivetran.com/docs/applications/hubspot#hubspotmarketingschema) provided by [Fivetran's ETL](https://fivetran.com/docs/applications/hubspot/setup-guide).
 
 ### What does this Block do for me?
 
@@ -20,4 +20,4 @@ This block is based on the [Hubspot Marketing Schema](https://fivetran.com/docs/
 
 ### What if I find an error? Suggestions for improvements?
 
-Great! Blocks were designed for continuous improvement through the help of the entire Looker community and we'd love your input. To report an error or improvement recommendation, please reach out to Looker support via email to support@looker.com or via chat to submit a request. Please be as detailed as possible in your explanation and we'll address it as quick as we can.
+Great! Blocks were designed for continuous improvement through the help of the entire Looker community and we'd love your input. To report an error or improvement recommendation, please get in touch at help.looker.com to submit a request. Please be as detailed as possible in your explanation and we'll address it as quick as we can.
